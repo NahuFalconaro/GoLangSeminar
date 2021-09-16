@@ -14,3 +14,9 @@ Y luego chequeamos que el valor indicado en la longitud de la cadena, es igual a
 
 
 Para el testing, utilizamos assert para comprobar que los resultados son los esperados.
+
+Integrantes:
+
+            Juan Pedro, Armella
+            Nahuel, Falconaro
+            Octavio, Cuatrochio
