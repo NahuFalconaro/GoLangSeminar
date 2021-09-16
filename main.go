@@ -12,7 +12,7 @@ func convertirCadena(c string) (model.Result, error) {
 func main() {
 	cadena := "TX03ABC"
 	result, err := convertirCadena(cadena)
-	if err != nil {
+	if err == nil {
 		fmt.Println(result)
 	} else {
 		panic(err)
